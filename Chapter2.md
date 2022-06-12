@@ -14,4 +14,6 @@
 
 ## Day 2
 
-1. 
+**1. Explain why we wouldn't call changeGreeting in a script.**
+
+This is simply because "changeGreeting" is used on transcations where we could 
