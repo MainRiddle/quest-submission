@@ -22,3 +22,6 @@
 1. 
 
 ![Screenshot 2022-06-12 135758](https://user-images.githubusercontent.com/106502749/173218316-095e3a9e-0f08-4a24-8dba-a218f51eb540.png)
+
+2. 
+
